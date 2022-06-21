@@ -14,6 +14,7 @@
 @prefix lyou:             <http://purl.org/linkingyou/>.
 @prefix lprov:            <http://id.learning-provider.data.ac.uk/terms#> .
 @prefix vcard:            <http://www.w3.org/2006/vcard/ns#>.
+@prefix rdf:              <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix rdfs:             <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix ospost:           <http://data.ordnancesurvey.co.uk/ontology/postcode/> .
 @prefix spatialrelations: <http://data.ordnancesurvey.co.uk/ontology/spatialrelations/> .
