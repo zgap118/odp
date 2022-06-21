@@ -18,6 +18,7 @@
 @prefix rdfs:             <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix ospost:           <http://data.ordnancesurvey.co.uk/ontology/postcode/> .
 @prefix spatialrelations: <http://data.ordnancesurvey.co.uk/ontology/spatialrelations/> .
+@prefix xsd:              <http://www.w3.org/2001/XMLSchema#> .
 
 
 ## Document description and license
@@ -89,7 +90,6 @@
 
 
 <http://www.qmul.ac.uk/#org>
-    pim:nearestAirport <http://transport.data.gov.uk/id/airport/LCY> ;
     lyou:about-executive <https://www.qmul.ac.uk/about/whoswho/governance/> ;
     lyou:about-leader <https://www.qmul.ac.uk/about/whoswho/> ;
     lyou:about-sites <https://www.qmul.ac.uk/about/howtofindus/> ;
@@ -155,16 +155,14 @@
 
 
 
-<!--
 ## Research Equipment dataset - to be
 
-<https://www.qmul.ac.uk/research/research-equipment.csv>
-    rdf:type dcat:Download ;
-    oo:organization <https://www.qmul.ac.uk/#org> ;
-    dcterms:subject <http://purl.org/openorg/theme/equipment> ;
-    dcterms:conformsTo <http://equipment.data.ac.uk/uniquip> ;
-    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    oo:contact <mailto:k.thornton@qmul.ac.uk> ;
-    oo:corrections <mailto:k.thornton@qmul.ac.uk> .
+# <https://www.qmul.ac.uk/research/research-equipment.csv>
+#     rdf:type dcat:Download ;
+#     oo:organization <https://www.qmul.ac.uk/#org> ;
+#     dcterms:subject <http://purl.org/openorg/theme/equipment> ;
+#     dcterms:conformsTo <http://equipment.data.ac.uk/uniquip> ;
+#     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+#     oo:contact <mailto:xxxxx@qmul.ac.uk> ;
+#     oo:corrections <mailto:xxxxx@qmul.ac.uk> .
 
--->
