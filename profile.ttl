@@ -125,28 +125,28 @@
     lyou:undergraduate-courses <https://search.qmul.ac.uk/s/search.html?collection=queenmary-coursefinder-undergraduate-meta&query=&sort=title> ;
     lyou:undergraduate-prospectus <https://www.qmul.ac.uk/undergraduate/> .
 
-<http://www.qmul.ac.uk/#org>
+<https://www.qmul.ac.uk/#org>
   foaf:account <https://twitter.com/qmul> .
   <https://twitter.com/qmul>
   a foaf:OnlineAccount ;
   foaf:accountName "qmul" ;
   foaf:accountServiceHomepage <https://twitter.com/> .
 
-<http://www.qmul.ac.uk/#org>
+<https://www.qmul.ac.uk/#org>
   foaf:account <https://facebook.com/qmul> .
   <https://facebook.com/qmul>
   a foaf:OnlineAccount ;
   foaf:accountName "qmul" ;
   foaf:accountServiceHomepage <https://facebook.com/> .
 
-<http://www.qmul.ac.uk/#org>
+<https://www.qmul.ac.uk/#org>
   foaf:account <https://www.youtube.com/user/QMULOfficial> .
   <https://www.youtube.com/user/QMULOfficial>
   a foaf:OnlineAccount ;
   foaf:accountName "QMULOfficial" ;
   foaf:accountServiceHomepage <https://youtube.com/> .
 
-<http://www.qmul.ac.uk/#org>
+<https://www.qmul.ac.uk/#org>
   foaf:account <https://www.instagram.com/officialqmul/> .
   <https://www.instagram.com/officialqmul/>
   a foaf:OnlineAccount ;
