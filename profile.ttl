@@ -89,7 +89,7 @@
     geo:long "-0.040710"^^xsd:decimal .
 
 
-<http://www.qmul.ac.uk/#org>
+<https://www.qmul.ac.uk/#org>
     lyou:about-executive <https://www.qmul.ac.uk/about/whoswho/governance/> ;
     lyou:about-leader <https://www.qmul.ac.uk/about/whoswho/> ;
     lyou:about-sites <https://www.qmul.ac.uk/about/howtofindus/> ;
